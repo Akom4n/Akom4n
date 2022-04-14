@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Akom4n
+- 👋 Hi, I’m Vinícius
 - 👀 I’m interested in game creation.
 - 🌱 I’m currently learning GameMakerStudio 2.
 - 💞️ I’m looking to collaborate on ...
