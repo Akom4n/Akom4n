@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vinícius
 - 👀 I’m interested in game creation.
-- 🌱 I’m currently learning GameMakerStudio 2.
+- 🌱 I’m currently learning GameMakerStudio 2 and Java.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
