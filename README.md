@@ -1,6 +1,6 @@
-<p = align-center>   
+#MarkDown
 <img src="https://i.pinimg.com/originals/c4/85/20/c4852096f8815f181ee54b9cbe904ae6.gif" height = 50%; width = 50%>
-</p>
+
 
 - 👋 Hi, I’m Vinícius
 - 👀 I’m interested in working Java.
