@@ -11,7 +11,7 @@ Uso bastante o ArchLinux, com a WM bspwm. Quem sabe um dia eu faço um Rice diss
 
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
 
-
+<img align="center" src="[https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif](https://www.reactiongifs.us/wp-content/uploads/2013/12/coffee_time_futurama.gif)"
 <!---
 Akom4n/Akom4n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
