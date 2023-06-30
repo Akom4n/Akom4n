@@ -1,9 +1,9 @@
 <h3> Bem vindo ao meu perfil GitHub 👋</h3>
 
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
-<h4><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" align="center" width = 5%; height = 5%> Atualmente sou back-end focado na linguagem Java.</h4>
-<h4><img src="https://seeklogo.com/images/A/archlinux-logo-1159446C2C-seeklogo.com.png" align="center" width = 5%; height = 5%>
-Uso bastante o ArchLinux, com a WM bspwm. Quem sabe um dia eu faço um Rice disso kkkk </h4>
+<h4><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" align="center" width = 5%; height = 5%> Trabalho atualmente com Java Back-End</h4>
+<h4><img src="https://seeklogo.com/images/A/archlinux-logo-1159446C2C-seeklogo.com.png" align="center" width = 5%; height = 5%> Uso bastante o ArchLinux, com a WM bspwm. Quem sabe um dia eu faço um Rice disso kkkk </h4>
+
 
 <h5>Por enquanto isso aqui vai ficar meio vazio mas com o tempo vou adicionando meus progressos</h3>
 
