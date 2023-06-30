@@ -19,8 +19,6 @@ Uso bastante o ArchLinux, com a WM bspwm. Quem sabe um dia eu faço um Rice diss
 
 ![Snake animation](https://github.com/Akom4n/Akom4n/blob/output/github-contribution-grid-snake.svg)
 
-<img align="center" src="https://media.tenor.com/PkFNozAi-24AAAAC/futurama-philip-fry.gif" alt="javascript" width="800" height="400"/>
-
 
 <!---
 Akom4n/Akom4n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
