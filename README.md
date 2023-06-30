@@ -9,6 +9,12 @@ Uso bastante o ArchLinux, com a WM bspwm. Quem sabe um dia eu faço um Rice diss
 
 <h5>Por enquanto isso aqui vai ficar meio vazio mas com o tempo vou adicionando meus progressos</h3>
 
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
 
 
