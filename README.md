@@ -11,7 +11,7 @@ Uso bastante o ArchLinux, com a WM bspwm. Quem sabe um dia eu faço um Rice diss
 
 <div>
 <a href="https://github.com/Akom4n">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?Akom4n&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akom4n&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Akom4n&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
