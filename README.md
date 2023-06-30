@@ -17,6 +17,7 @@ Uso bastante o ArchLinux, com a WM bspwm. Quem sabe um dia eu faço um Rice diss
 
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
 
+![Snake animation](https://github.com/Akom4n/Akom4n/blob/output/github-contribution-grid-snake.svg)
 
 <img align="center" src="https://media.tenor.com/PkFNozAi-24AAAAC/futurama-philip-fry.gif" alt="javascript" width="1000" height="400"/>
 
