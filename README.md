@@ -26,7 +26,7 @@
 
 ## GitHub Status
 
-<img align="right" width="48%" src="https://media3.giphy.com/media/8UkaQtVBS2r8Q/giphy.webp?cid=ecf05e47n9eqca6jigum0a3iw81razol0soykacgszxukii7&ep=v1_gifs_search&rid=giphy.webp&ct=g"/>
+<img align="right" width="45%" src="https://media3.giphy.com/media/8UkaQtVBS2r8Q/giphy.webp?cid=ecf05e47n9eqca6jigum0a3iw81razol0soykacgszxukii7&ep=v1_gifs_search&rid=giphy.webp&ct=g"/>
 <div align="center"> 
 <a href="https://github.com/Akom4n"><img height="200px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=akom4n&show_icons=true&locale=en&layout=donut&theme=radical" alt="Akom4n" /> 
 <a href="https://github.com/Akom4n"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=Akom4n&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff5555&fire=ff5555&sideNums=ff5555"></a>
