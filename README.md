@@ -31,10 +31,19 @@
 <a href="https://github.com/Akom4n"><img height="200px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=akom4n&show_icons=true&locale=en&layout=donut&theme=radical" alt="Akom4n" /> 
 <a href="https://github.com/Akom4n"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=Akom4n&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff5555&fire=ff5555&sideNums=ff5555"></a>
 
-### Languages, Tools and Software
+<div align="left">
+  
+### Languages
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,docker,eclipse,gamemakerstudio,git,idea,java,linux,maven,mysql,postgres,postman,spring,vim" />
+    <img src="https://skillicons.dev/icons?i=angular,cs,css,java,js,maven,mysql,spring," />
+  </a>
+</p>
+  
+### Tools and Software
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,eclipse,gamemakerstudio,git,idea,linux,postgres,postman,vim,visualstudio" />
   </a>
 </p>
 
