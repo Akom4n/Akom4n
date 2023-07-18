@@ -6,7 +6,7 @@
 
 - 🔭 Atualmente estou numa jornada para **me desenvolver**
 
-- 🌱 Atualmente estou focado em **Java**
+- 🌱 Atualmente estou focado em **Java Back-End**
 
 - 💬 Pergunte me sobre **open source, web development, and back-end**
 
@@ -37,9 +37,6 @@
     <img src="https://skillicons.dev/icons?i=angular,docker,eclipse,gamemakerstudio,git,idea,java,linux,maven,mysql,postgres,postman,spring,vim" />
   </a>
 </p>
-
-
-
 
 <!---
 Akom4n/Akom4n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
