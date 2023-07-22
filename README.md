@@ -12,10 +12,6 @@
 
 - 📫 Me encontre em **joaovinicius.silva210@gmail.com**
 
-<a href="https://open.spotify.com/user/31sl6fqvwcxyyyytnqcayrm5yqmu" target="_blank">
-<img src="https://Akom4n-spotify-readme.vercel.app/api?theme=dark&scan=true" alt="Música que está tocando no Spotify do Akom4n no momento" />
-</a>
-
 </details>
   
 </p>
