@@ -4,9 +4,9 @@
 <details>
   <summary>🧑 Sobre mim</summary>
 
-- 🔭 Atualmente estou numa jornada para **me desenvolver**
+- 🔭 Estou numa jornada para **me desenvolver**
 
-- 🌱 Atualmente estou focado em **Java Back-End**
+- 🌱 Estou focado em **Java Back-End**
 
 - 💬 Pergunte me sobre **open source, web development, and back-end**
 
