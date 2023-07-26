@@ -29,7 +29,7 @@
 <img align="right" width="40%" src="https://media3.giphy.com/media/8UkaQtVBS2r8Q/giphy.webp?cid=ecf05e47n9eqca6jigum0a3iw81razol0soykacgszxukii7&ep=v1_gifs_search&rid=giphy.webp&ct=g"/>
 <div align="center"> 
 <a href="https://github.com/Akom4n"> <img height="200px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=akom4n&show_icons=true&locale=en&layout=donut&theme=radical" alt="Akom4n" /> 
-<a href="https://github.com/Akom4n%22%3E"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=Akom4n&theme=radical&date_format=j%20M%5B%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068%22%3E"> </a>
+<a href="https://github.com/Akom4n%22%3E"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=Akom4n&theme=radical&date_format=j%20M%5B%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068%22%3E" /> </a>
  
 <div align="left">
   
