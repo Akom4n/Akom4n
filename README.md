@@ -4,7 +4,7 @@
 <details>
   <summary>🧑 Sobre mim</summary>
 
-- 🔭 Estou numa jornada para **me desenvolver**
+- 🔭 Estou numa jornada para **aprender e me desenvolver**
 
 - 🌱 Estou focado em **Java Back-End**
 
