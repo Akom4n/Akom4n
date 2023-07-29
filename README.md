@@ -6,7 +6,7 @@
 
 - 🔭 Estou numa jornada para **aprender e me desenvolver**
 
-- 🌱 Estou focado em **Java Back-End**
+- 🌱 Estou focado em aprender e trabalhar com **Java Back-End**
 
 - 💬 Pergunte me sobre **open source, web development, and back-end**
 
