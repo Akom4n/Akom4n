@@ -37,13 +37,14 @@
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=angular,cs,css,java,js,maven,mysql,spring" />
+    <img width="5%" src="https://media3.giphy.com/media/RfSEtAibkFAGiVVYX0/200w.webp?cid=ecf05e47npvoohy0inxaaua582xfrtqajt7rr1ib6o54afd1&ep=v1_stickers_search&rid=200w.webp&ct=s">
   </a>
 </p>
   
 ### Tools and Software <img align="center" width="6%" src="https://media2.giphy.com/media/iXlqIloEi4etN1V2Z5/200w.webp?cid=ecf05e47sr3w761ftukbt7bul7zevuzji6j88g6kyo0yihqf&ep=v1_stickers_search&rid=200w.webp&ct=s" />
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,eclipse,gamemakerstudio,git,idea,linux,postgres,postman,vim,visualstudio"/>
+    <img src="https://skillicons.dev/icons?i=docker,eclipse,gamemakerstudio,git,idea,linux,postgres,postman,vim,visualstudio"/>  
   </a>
 </p>
 
