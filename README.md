@@ -12,6 +12,8 @@
 
 - 📫 Me encontre em **joaovinicius.silva210@gmail.com**
 
+- 👾 Boa sorte na sua jornada guerreiro, **você consegue!**
+
 </details>
   
 </p>
