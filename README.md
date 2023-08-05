@@ -39,7 +39,6 @@
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=angular,cs,css,java,js,maven,mysql,spring" />
-    <img width="5%" src="https://media3.giphy.com/media/RfSEtAibkFAGiVVYX0/200w.webp?cid=ecf05e47npvoohy0inxaaua582xfrtqajt7rr1ib6o54afd1&ep=v1_stickers_search&rid=200w.webp&ct=s">
   </a>
 </p>
   
