@@ -4,15 +4,15 @@
 <details>
   <summary>🧑 Sobre mim</summary>
 
-- 🔭 Tentando sempre **aprender e me desenvolver**
+- 🔭 Buscando sempre **aprender e me desenvolver**
 
-- 🌱 Em busca de aprender e trabalhar com **Java Back-End**
+- 🌱 Em busca de melhorar e trabalhar com **Java Back-End**
 
 - 💬 Pergunte me sobre **open source, web development, and back-end**
 
 - 📫 Me encontre em **joaovinicius.silva210@gmail.com**
 
-- 👾 Boa sorte na sua jornada guerreiro, **você consegue!**
+- 👾 Boa sorte na sua jornada, **você consegue!**
 
 </details>
   
