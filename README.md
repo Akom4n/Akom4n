@@ -12,7 +12,7 @@
 
 - 📫 Me encontre em **joaovinicius.silva210@gmail.com**
 
-- 👾 Boa sorte na sua jornada, **você consegue!**
+- 👾 Se diante do universo nós somos criaturas insignificantes, a maior vitória que a gente pode ter, é viver uma vida com satisfação...
 
 </details>
   
