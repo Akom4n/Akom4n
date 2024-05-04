@@ -30,12 +30,16 @@
 
 <div align="center"> 
 
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=akom4n&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" /> 
-  
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akom4n&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" />
-  
-<a href="https://git.io/streak-stats"><img width="50%" src="https://streak-stats.demolab.com?user=Akom4n&theme=dark&locale=pt_BR&date_format=%5BY%20%5DM%20j" alt="GitHub Streak" /></a>
-<div align="left">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Akom4n&theme=github_dark" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Akom4n&layout=compact&langs_count=8&card_width=320&theme=github_dark" />
+</a>
+</div>
+
+<img width="850" height="350" src="https://media1.tenor.com/m/2Te4Was8UnUAAAAd/pixel-city-discord-decoration.gif">
+
   
 ### Languages <img align="center" width="7%" src="https://media4.giphy.com/media/iJsjsm6dhNPiQBvztq/200w.webp?cid=ecf05e47jc19wtj5p47ikodhz42fdlyiii8psf7699hrlpp6&ep=v1_stickers_search&rid=200w.webp&ct=s" />
 <p align="left">
