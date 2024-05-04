@@ -31,7 +31,7 @@
 <div align="center"> 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img  align="center" height="150px" src="https://github-readme-stats.vercel.app/api?username=Akom4n&theme=github_dark" />
+  <img  align="center" height="150px" src="https://github-readme-stats.vercel.app/api?username=Akom4n&show_icons=true&theme=github_dark&include_all_commits=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img  align="center" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Akom4n&layout=compact&langs_count=8&card_width=320&theme=github_dark" />
