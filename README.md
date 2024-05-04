@@ -28,7 +28,6 @@
 
 ## GitHub Status
 
-<img align="right" width="40%" height="50%" src="https://media4.giphy.com/media/8UkaQtVBS2r8Q/giphy.gif?cid=ecf05e47r1um0l7v0gt20g02fepdine2oke6avs0261peop3&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
 <div align="center"> 
 
 <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=akom4n&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" /> 
