@@ -1,12 +1,14 @@
 <div align="center"> <h2> Bem vindo ao meu perfil GitHub </h2></div>
 
 <div align="center">
+<img width="640" height="250" src="https://media1.tenor.com/m/2Te4Was8UnUAAAAd/pixel-city-discord-decoration.gif">
+
 <details>
   <summary>🧑 Sobre mim</summary>
 
 - 🔭 Buscando sempre **aprender e me desenvolver**
 
-- 🌱 Em busca de melhorar e trabalhar com **Java Back-End**
+- 🌱 Em busca de melhorar em **Java Back-End**
 
 - 💬 Pergunte me sobre **open source, web development, and back-end**
 
@@ -37,8 +39,6 @@
   <img  align="center" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Akom4n&layout=compact&langs_count=8&card_width=320&theme=github_dark" />
 </a>
 </div>
-
-<img width="640" height="250" src="https://media1.tenor.com/m/2Te4Was8UnUAAAAd/pixel-city-discord-decoration.gif">
 
   
 ### Languages <img align="center" width="7%" src="https://media4.giphy.com/media/iJsjsm6dhNPiQBvztq/200w.webp?cid=ecf05e47jc19wtj5p47ikodhz42fdlyiii8psf7699hrlpp6&ep=v1_stickers_search&rid=200w.webp&ct=s" />
