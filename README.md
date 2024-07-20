@@ -42,14 +42,14 @@
 
   
 ### Languages <img align="center" width="7%" src="https://media4.giphy.com/media/iJsjsm6dhNPiQBvztq/200w.webp?cid=ecf05e47jc19wtj5p47ikodhz42fdlyiii8psf7699hrlpp6&ep=v1_stickers_search&rid=200w.webp&ct=s" />
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=angular,cs,css,java,js,maven,mysql,spring" />
   </a>
 </p>
   
 ### Tools and Software <img align="center" width="6%" src="https://media2.giphy.com/media/iXlqIloEi4etN1V2Z5/200w.webp?cid=ecf05e47sr3w761ftukbt7bul7zevuzji6j88g6kyo0yihqf&ep=v1_stickers_search&rid=200w.webp&ct=s" />
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=docker,eclipse,gamemakerstudio,git,idea,linux,postgres,postman,vim,visualstudio,heroku,"/>  
   </a>
