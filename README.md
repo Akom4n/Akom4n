@@ -1,3 +1,5 @@
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=João%20Vinícius%20da%20Silva&reversal=true&section=header&descAlign=32"> </div>
 <div align="center"> <h2> Bem vindo ao meu perfil GitHub </h2></div>
 
 <div align="center">
